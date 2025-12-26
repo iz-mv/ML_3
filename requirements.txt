@@ -1,0 +1,4 @@
+langchain
+langchain-ollama
+langfuse
+python-dotenv

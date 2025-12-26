@@ -1,0 +1,5 @@
+python -m agent.benchmark --models "llama3.2,qwen3:4b-instruct,phi3.5"
+
+python -m agent.benchmark --models "llama3.2" --out "results/llama3.2.json"
+python -m agent.benchmark --models "qwen3:4b-instruct" --out "results/qwen3_4b.json"
+python -m agent.benchmark --models "phi3.5" --out "results/phi3.5.json"
