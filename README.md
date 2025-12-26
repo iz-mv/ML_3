@@ -3,10 +3,15 @@
 ## TS_3 — Lightweight LLM Benchmark + Tool-Using Agent + Observability (Langfuse)
 
 **Author:** Mubarakov Islam (Group: 11-314a)
+
 **Repo:** Machine-Learning-Task-Series-3
+
 **Platform:** macOS + PyCharm
+
 **LLM runtime:** Ollama (local)
+
 **Agent framework:** LangChain-style chat + tool calling
+
 **Observability:** Langfuse (self-hosted via Docker) + OpenTelemetry traces
 
 ---
